@@ -1,6 +1,6 @@
 # Emergency
 <br>
-这是一款在发生应急响应事件时可以快速对Windows和Linux系统的证据链进行收集的工具
+这是一款在发生应急响应事件时可以快速对Windows和Linux系统的证据链进行收集的工具<br>
 <br>
 ##Linux版本<br>
 1、工具放到当前目录中，输入密码：Tes.lo01，选择y进入下一步；<br>
